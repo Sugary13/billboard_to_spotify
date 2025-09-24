@@ -1,0 +1,7 @@
+# Archivos de entorno
+.env
+.cache-spotify
+
+# Archivos de Python
+__pycache__/
+*.pyc
